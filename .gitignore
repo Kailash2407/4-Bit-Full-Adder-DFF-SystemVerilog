@@ -1,0 +1,16 @@
+# EDA Simulation Artifacts (ModelSim / QuestaSim)
+work/
+transcript
+*.wlf
+modelsim.ini
+*.vstf
+*.log
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE configuration
+.vscode/
+.idea/
